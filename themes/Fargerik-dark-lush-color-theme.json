@@ -2,7 +2,7 @@
 	"name": "Fargerik Dark Lush",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1b1b1a",
+		"editor.background": "#1b1b19",
 		"editor.foreground": "#defbbe",
 		"activityBarBadge.background": "#00cc22",
 		"sideBarTitle.foreground": "#bbbbbb",

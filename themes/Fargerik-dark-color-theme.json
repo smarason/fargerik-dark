@@ -2,7 +2,7 @@
 	"name": "Fargerik Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#20201f",
+		"editor.background": "#1a1a18",
 		"editor.foreground": "#fbe6be",
 		"activityBarBadge.background": "#cc9600",
 		"sideBarTitle.foreground": "#bbbbbb",
