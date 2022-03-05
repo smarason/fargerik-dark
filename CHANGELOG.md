@@ -1,9 +1,4 @@
-# Change Log
+# Fargerik Dark Changelog
 
-All notable changes to the "fargerik-warm-dark" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## Version 0.5.0
+- 3 dark themes released

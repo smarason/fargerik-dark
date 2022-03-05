@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "fargerik-warm-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Fargerik Dark
+## Color schemes for Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Fargerik Dark is a collection of custom syntax highlighting themes for Visual Studio code.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Currently supported languages:
+* Python
+* C
 
-**Enjoy!**
+Themes in this collection:
+* Fargerik Dark: a warm theme with complementary colors
+* Fargerik Dark Ice: a cold theme with hues of blues and grays
+* Fargerik Dark Lush: a crazy theme of greens and yellows
+
+Future updates will continue to fine tune the current themes and add more variations.
