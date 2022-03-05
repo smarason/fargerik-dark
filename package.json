@@ -17,12 +17,15 @@
     "keywords": [
         "dark",
         "warm colors",
-        "smarason",
         "dark theme",
         "colorful",
         "cold colors",
         "orange",
-        "blue"
+        "blue",
+        "green",
+        "python theme",
+        "c theme",
+        "java theme"
     ],
     "contributes": {
         "themes": [

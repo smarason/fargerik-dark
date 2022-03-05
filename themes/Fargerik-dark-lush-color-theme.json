@@ -1,9 +1,9 @@
 {
-	"name": "Fargerik Dark",
+	"name": "Fargerik Dark Lush",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1c201c",
-		"editor.foreground": "#befbbe",
+		"editor.background": "#1b1b1a",
+		"editor.foreground": "#defbbe",
 		"activityBarBadge.background": "#00cc22",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#181d17",
@@ -31,7 +31,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#36f640"
+				"foreground": "#5ef865"
 			}
 		},
 		{
@@ -60,7 +60,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#fb8541"
+				"foreground": "#fb5041"
 			}
 		},
 		{
@@ -70,7 +70,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#42f34b"
+				"foreground": "#69e230"
 			}
 		},
 		{
