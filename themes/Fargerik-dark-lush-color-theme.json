@@ -2,14 +2,14 @@
 	"name": "Fargerik Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#20201f",
-		"editor.foreground": "#fbe6be",
-		"activityBarBadge.background": "#cc9600",
+		"editor.background": "#1c201c",
+		"editor.foreground": "#befbbe",
+		"activityBarBadge.background": "#00cc22",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#1d1717",
-		"editorGutter.background": "#221e1e",
-		"activityBar.background": "#20201f",
-		"statusBar.background": "#462f44"
+		"sideBar.background": "#181d17",
+		"editorGutter.background": "#1e221e",
+		"activityBar.background": "#1f201f",
+		"statusBar.background": "#32462f"
 	},
 	"tokenColors": [
 		{
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#c385c8"
+				"foreground": "#f19e31"
 			}
 		},
 		{
@@ -31,7 +31,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#36f686"
+				"foreground": "#36f640"
 			}
 		},
 		{
@@ -60,7 +60,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ffc115"
+				"foreground": "#fb8541"
 			}
 		},
 		{
@@ -70,7 +70,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#42f3b8"
+				"foreground": "#42f34b"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#f58a32"
+				"foreground": "#28c21a"
 			}
 		},
 		{
@@ -91,7 +91,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#fbca2a"
+				"foreground": "#4dfb2a"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#00eaff"
+				"foreground": "#09ff00"
 			}
 		},
 		{
@@ -142,7 +142,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#75eaee"
+				"foreground": "#a5ee75"
 			}
 		},
 		{

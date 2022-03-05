@@ -2,14 +2,14 @@
 	"name": "Fargerik Dark Ice",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#19191bdc",
-		"editor.foreground": "#dcd8fd",
+		"editor.background": "#1d1d1fdc",
+		"editor.foreground": "#eceafb",
 		"activityBarBadge.background": "#6756fb",
 		"sideBarTitle.foreground": "#ffffff",
-		"sideBar.background": "#1d1717",
-		"editorGutter.background": "#221e1e",
-		"activityBar.background": "#20201f",
-		"statusBar.background": "#2f2f46"
+		"sideBar.background": "#171c1d",
+		"editorGutter.background": "#1e1e22",
+		"activityBar.background": "#1f2020",
+		"statusBar.background": "#2f3546"
 	},
 	"tokenColors": [
 		{
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a8a8a8"
+				"foreground": "#44c6fa"
 			}
 		},
 		{
@@ -31,7 +31,8 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#36b9f6"
+				"fontStyle": "bold",
+				"foreground": "#27a1da"
 			}
 		},
 		{

@@ -35,6 +35,11 @@
                 "label": "Fargerik Dark Ice",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Fargerik-dark-ice-color-theme.json"
+            },
+            {
+                "label": "Fargerik Dark Lush",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fargerik-dark-lush-color-theme.json"
             }
         ]
     }
