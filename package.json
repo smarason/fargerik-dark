@@ -1,7 +1,12 @@
 {
-    "name": "fargerik-warm-dark",
-    "displayName": "fargerik",
-    "description": "Fargerik warm dark theme",
+    "name": "fargerik-dark",
+    "displayName": "Fargerik",
+    "description": "Fargerik dark themes",
+    "publisher": "smarason",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/smarason/fargerik-dark"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
@@ -9,12 +14,27 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "dark",
+        "warm colors",
+        "smarason",
+        "dark theme",
+        "colorful",
+        "cold colors",
+        "orange",
+        "blue"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Fargerik Warm Dark",
+                "label": "Fargerik Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Fargerik Warm Dark-color-theme.json"
+                "path": "./themes/Fargerik-dark-color-theme.json"
+            },
+            {
+                "label": "Fargerik Dark Ice",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fargerik-dark-ice-color-theme.json"
             }
         ]
     }

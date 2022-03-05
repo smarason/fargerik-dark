@@ -1,15 +1,15 @@
 {
-	"name": "Fargerik Warm Dark",
+	"name": "Fargerik Dark Ice",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#20201f",
-		"editor.foreground": "#fbe6be",
-		"activityBarBadge.background": "#cc9600",
-		"sideBarTitle.foreground": "#bbbbbb",
+		"editor.background": "#19191bdc",
+		"editor.foreground": "#dcd8fd",
+		"activityBarBadge.background": "#6756fb",
+		"sideBarTitle.foreground": "#ffffff",
 		"sideBar.background": "#1d1717",
 		"editorGutter.background": "#221e1e",
 		"activityBar.background": "#20201f",
-		"statusBar.background": "#462f44"
+		"statusBar.background": "#2f2f46"
 	},
 	"tokenColors": [
 		{
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#c385c8"
+				"foreground": "#a8a8a8"
 			}
 		},
 		{
@@ -31,7 +31,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#36f686"
+				"foreground": "#36b9f6"
 			}
 		},
 		{
@@ -50,7 +50,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#fffc53"
 			}
 		},
 		{
@@ -60,7 +60,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ffc115"
+				"foreground": "#a9a7c2"
 			}
 		},
 		{
@@ -70,7 +70,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#42f3b8"
+				"foreground": "#bed3cc"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#f59a32"
+				"foreground": "#3287f5"
 			}
 		},
 		{
@@ -91,27 +91,36 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#fbca2a"
+				"foreground": "#8688f0"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
+				"keyword.other.template",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": [
+				"punctuation",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
+				"punctuation.section.embedded"
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#49cff0"
+				"foreground": "#89b6f8"
 			}
 		},
 		{
@@ -122,7 +131,8 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f1bcbe"
+				"fontStyle": "bold",
+				"foreground": "#bcf1e5"
 			}
 		},
 		{
@@ -133,8 +143,8 @@
 				"support.function"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#d2ee75"
+				"fontStyle": "",
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -143,7 +153,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#e0e0e0"
 			}
 		},
 		{
@@ -153,7 +163,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -169,28 +179,29 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#f4f5c5"
+				"foreground": "#4efff6"
 			}
 		},
 		{
-			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"name": "String, Symbols, Markup Heading",
 			"scope": [
 				"string",
 				"constant.other.symbol",
 				"constant.other.key",
-				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"fontStyle": "",
+				"foreground": "#a3fffa"
 			}
 		},
 		{
-			"name": "Class, Support",
+			"name": "Class, Inherited class, Support",
 			"scope": [
 				"entity.name",
+				"entity.other.inherited-class",
 				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
@@ -200,7 +211,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#cbff6b"
+				"fontStyle": "bold",
+				"foreground": "#14ffff"
 			}
 		},
 		{
@@ -209,7 +221,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#d6bfb2"
+				"foreground": "#ffffff"
 			}
 		},
 		{
