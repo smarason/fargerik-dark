@@ -1,7 +1,7 @@
 {
     "name": "fargerik-warm-dark",
     "displayName": "fargerik",
-    "description": "Fargerik dark theme",
+    "description": "Fargerik warm dark theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
