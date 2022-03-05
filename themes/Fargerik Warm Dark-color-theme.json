@@ -2,10 +2,14 @@
 	"name": "Fargerik Warm Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1f1f1c",
-		"editor.foreground": "#e8ebc2",
+		"editor.background": "#20201f",
+		"editor.foreground": "#fbe6be",
 		"activityBarBadge.background": "#cc9600",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#1d1717",
+		"editorGutter.background": "#221e1e",
+		"activityBar.background": "#20201f",
+		"statusBar.background": "#462f44"
 	},
 	"tokenColors": [
 		{
@@ -16,17 +20,18 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ee7c95"
+				"foreground": "#c385c8"
 			}
 		},
 		{
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"variable.function"
 			],
 			"settings": {
-				"foreground": "#d38465"
+				"foreground": "#36f686"
 			}
 		},
 		{
@@ -35,7 +40,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#fbfbfb"
+				"foreground": "#fbe6be"
 			}
 		},
 		{
@@ -51,23 +56,42 @@
 		{
 			"name": "Storage",
 			"scope": [
-				"storage.type",
+				"storage.type"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#ffc115"
+			}
+		},
+		{
+			"name": "Storage modifier",
+			"scope": [
 				"storage.modifier"
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#7df8ad"
+				"foreground": "#42f3b8"
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": [
-				"keyword",
-				"keyword.control"
+				"keyword"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#f59a32"
+			}
+		},
+		{
+			"name": "Keyword control",
+			"scope": [
+				"keyword.control",
+				"keyword.other.special-method"
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ffb85c"
+				"foreground": "#fbca2a"
 			}
 		},
 		{
@@ -87,7 +111,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#a9f5de"
+				"foreground": "#49cff0"
 			}
 		},
 		{
@@ -106,13 +130,11 @@
 			"scope": [
 				"entity.name.function",
 				"meta.function-call",
-				"variable.function",
-				"support.function",
-				"keyword.other.special-method"
+				"support.function"
 			],
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#e0a35d"
+				"fontStyle": "italic",
+				"foreground": "#d2ee75"
 			}
 		},
 		{
@@ -147,7 +169,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#f79090"
+				"foreground": "#f4f5c5"
 			}
 		},
 		{
